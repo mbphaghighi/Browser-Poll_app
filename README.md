@@ -26,7 +26,7 @@ and in its __construct() method, modify the database properties with your databa
 Then, import the test_poll.sql file into your database.
 
 
-### Using the App
+## Using the Web App
 
 And finally, start the application:
 
